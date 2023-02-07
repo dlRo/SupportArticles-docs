@@ -7,7 +7,7 @@ search.appverid: MET150
 ---
 # Troubleshooting SCEP certificate profiles with Intune
 
-This articles gives guidance to help you troubleshoot and resolve issues with Simple Certificate Enrollment Protocol (SCEP) certificate profiles in Microsoft Intune. The following sections cover these concepts:
+This article gives guidance to help you troubleshoot and resolve issues with Simple Certificate Enrollment Protocol (SCEP) certificate profiles in Microsoft Intune. The following sections cover these concepts:
 
 - The architecture and the communication flow of the SCEP process
 - Narrowing down where a problem exists in that communication flow
